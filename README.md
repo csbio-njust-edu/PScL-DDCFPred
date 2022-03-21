@@ -36,5 +36,5 @@ lib folder contains all the python codes and libraries for deep cascade forest. 
 utils fodler contains the important libraries reltated to DNN-DCF classifer.
 ### (3)	DNN-DCF.py
 DNN-DCF.py is the Python file for the implementation of DNN-DCF classifier.
-## (IX)	Contact
+## (IV)	Contact
 If you are interested in our work or you have any suggestions and questions about our research work, please contact us. E-mail: khan_bcs2010@hotmail.com.
