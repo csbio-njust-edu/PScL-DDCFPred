@@ -12,7 +12,7 @@ Please download the datasets from "https://drive.google.com/drive/folders/13MLIz
 lib folder contains all the code used in this study.<br />
 ### (3)	Biomage_Feature_Extraction.m
 Biomage_Feature_Extraction.m is the matlab file for extracting <br />
-(1) Subcellular location features (Slfs) which includes
+(1) Subcellular location features (Slfs) which includes <br />
 	(i)		DNA distribution features <br />
 	(ii)	Haralick texture features <br />
 (2)	Local binary pattern <br />
